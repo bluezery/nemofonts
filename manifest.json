@@ -1,0 +1,10 @@
+{
+ "pkgname": "nemofonts",
+ "name": "nemofonts",
+ "maintainer": "Kim Taehwan<taehwan.kim@nemoux.net>",
+ "description": "Open font collections fot NEMO",
+ "version": "0.1.0",
+ "type": "shell",
+ "config": {
+ }
+}

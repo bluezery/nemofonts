@@ -1,0 +1,17 @@
+Source: nemofonts
+Priority: optional
+Maintainer: Taehwan Kim <taehwan@nemoux.net>,
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.8
+Section: fonts
+Homepage: http://www.nemoux.net
+#Vcs-Git: git://anonscm.debian.org/collab-maint/nemofonts.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/nemofonts.git
+
+Package: nemofonts
+Priority: optional
+Section: fonts
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, fontconfig
+Description: Open font collections for NEMO
+ <insert long description, indented with spaces>
