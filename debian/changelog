@@ -1,5 +1,11 @@
+nemofonts (0.0.2) unstable; urgency=medium
+
+  * Bump up
+
+ -- Taehwan Kim <taehwan@nemoux.net>  Sat, 29 Apr 2017 22:18:56 +0900
+
 nemofonts (0.0.1) unstable; urgency=medium
 
   * Initial Release.
 
- -- Taehwan Kim <taehwan@nemoux.net>  Wed, 22 Feb 2017 21:37:23 +0900
+ -- Taehwan Kim <taehwan@nemoux.net>  Sat, 29 Apr 2017 22:12:45 +0900
