@@ -1,3 +1,9 @@
+nemofonts (0.0.4) unstable; urgency=medium
+
+  * Reduce sizes, remain only CJK fonts and eng. 
+
+ -- Taehwan Kim <taehwan@nemoux.net>  Tue, 16 May 2017 17:04:33 +0900
+
 nemofonts (0.0.3) unstable; urgency=medium
 
   * Add Noto CJK fonts 
